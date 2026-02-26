@@ -15,12 +15,12 @@
 ## About Me
 
 <p align="center">
-  <span style="color:#FF3B3F; font-weight:bold;">FiveM Script Developer from Bangladesh</span><br>
-  <span style="color:#00FFFF;">I custom scripts for FiveM</span><br>
-  <span style="color:#FFFFFF;">Clean architecture</span><br>
-  <span style="color:#8A2BE2;">Optimized performance</span><br>
-  <span style="color:#FF6B00;">Modern UI / NUI interfaces</span><br>
-  <span style="color:#00FF00;">Scalable and production-ready</span><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF3B3F&width=650&lines=FiveM+Script+Developer+from+Bangladesh" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=I+custom+scripts+for+FiveM" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FFFFFF&width=650&lines=Clean+architecture" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=8A2BE2&width=650&lines=Optimized+performance" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF6B00&width=650&lines=Modern+UI+%2F+NUI+interfaces" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FF00&width=650&lines=Scalable+and+production-ready" />
 </p>
 
 ---
@@ -28,11 +28,11 @@
 ## What I Build
 
 <p align="center">
-  <span style="color:#FF3B3F; font-weight:bold;">FiveM Scripts</span><br>
-  <span style="color:#00FFFF;">UI / NUI Systems</span><br>
-  <span style="color:#FFFFFF;">Framework Integrations (ESX / QBCore / Qbox)</span><br>
-  <span style="color:#8A2BE2;">Database & Backend Logic</span><br>
-  <span style="color:#00FF00;">Web Integrations</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF3B3F&width=650&lines=FiveM+Scripts" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=UI+%2F+NUI" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FFFFFF&width=650&lines=Framework+Integrations+(ESX+%2F+QBCore+%2F+Qbox)" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=8A2BE2&width=650&lines=Database+%26+Backend+Logic" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FF00&width=650&lines=Web+Integrations" />
 </p>
 
 ---
