@@ -1,11 +1,13 @@
 <h1 align="center">Talha Arif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&duration=2800&pause=900&color=4DA3FF&center=true&vCenter=true&width=800&lines=FiveM+Script+Developer;Lua+%7C+NUI+%7C+Web+Integration;ESX+%7C+QBCore+%7C+Qbox;Modern+%26+Optimized+Resources" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=800&lines=FiveM+Script+Developer;Lua+%7C+JavaScript+%7C+NUI;ESX+%7C+QBCore+%7C+Qbox;Optimized+&+Professional+Resources" />
 </p>
 
 <p align="center">
-  <b>FiveM Script Developer</b> • Lua • JavaScript • NUI
+  <img src="https://img.shields.io/badge/Framework-ESX%20|%20QBCore%20|%20Qbox-1F1F1F?style=for-the-badge&logo=github&logoColor=00CFFF"/>
+  <img src="https://img.shields.io/badge/Lua-Developer-1F1F1F?style=for-the-badge&logo=lua&logoColor=00CFFF"/>
+  <img src="https://img.shields.io/badge/FiveM-Script%20Creator-1F1F1F?style=for-the-badge&logo=rockstargames&logoColor=00CFFF"/>
 </p>
 
 ---
@@ -14,19 +16,13 @@
 
 FiveM Script Developer from Bangladesh 🇧🇩  
 
-I build custom FiveM scripts and complete server resources  
-designed for performance, structure, and clean architecture.
+I create full server resources and custom scripts for FiveM:  
+- Clean architecture  
+- Optimized performance  
+- Modern NUI / UI interfaces  
+- Scalable and production-ready  
 
-From UI-based systems to full gameplay logic —  
-I create scalable and modern solutions.
-
----
-
-## Framework Support
-
-- ESX  
-- QBCore  
-- Qbox  
+I don’t just code scripts — I build systems.
 
 ---
 
@@ -40,10 +36,9 @@ I create scalable and modern solutions.
 
 ## What I Build
 
-- Custom FiveM Scripts  
-- Full Server Resources  
+- FiveM Scripts  
 - UI / NUI Systems  
-- Framework Integrations  
+- Framework Integrations (ESX / QBCore / Qbox)  
 - Database & Backend Logic  
 - Web Integrations  
 
@@ -52,18 +47,12 @@ I create scalable and modern solutions.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalhaaXP&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=TalhaaXP&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalhaaXP&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=TalhaaXP&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
 
-## Current Focus
-
-Building aesthetic, optimized, and production-ready FiveM resources.
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4DA3FF,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f111a,100:111827&height=120&section=footer"/>
 </p>
