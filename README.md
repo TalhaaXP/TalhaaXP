@@ -14,15 +14,21 @@
 
 ## About Me
 
-FiveM Script Developer from Bangladesh 🇧🇩  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00CFFF,8A2BE2&width=650&lines=FiveM+Script+Developer+from+Bangladesh+🇧🇩;I+create+full+server+resources+and+custom+scripts+for+FiveM;Clean+architecture;+Optimized+performance;+Modern+UI+%2F+NUI+interfaces;+Scalable+and+production-ready;I+don’t+just+code+scripts+—+I+build+systems." />
+</p>
 
-I create full server resources and custom scripts for FiveM:  
-- Clean architecture  
-- Optimized performance  
-- Modern NUI / UI interfaces  
-- Scalable and production-ready  
+---
 
-I don’t just code scripts — I build systems.
+## What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM%20Scripts-00CFFF?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%20%2F%20NUI%20Systems-8A2BE2?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frameworks-ESX%20%7C%20QBCore%20%7C%20Qbox-00F5FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database%20%26%20Backend-FF6B00?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Integrations-00CFFF?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
 ---
 
@@ -34,17 +40,7 @@ I don’t just code scripts — I build systems.
 
 ---
 
-## What I Build
-
-- FiveM Scripts  
-- UI / NUI Systems  
-- Framework Integrations (ESX / QBCore / Qbox)  
-- Database & Backend Logic  
-- Web Integrations  
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalhaaXP&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
