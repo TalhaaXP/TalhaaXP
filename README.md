@@ -15,7 +15,12 @@
 ## About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00CFFF,8A2BE2&width=650&lines=FiveM+Script+Developer+from+Bangladesh+🇧🇩;I+create+full+server+resources+and+custom+scripts+for+FiveM;Clean+architecture;+Optimized+performance;+Modern+UI+%2F+NUI+interfaces;+Scalable+and+production-ready;I+don’t+just+code+scripts+—+I+build+systems." />
+  <span style="color:#FF3B3F; font-weight:bold;">FiveM Script Developer from Bangladesh</span><br>
+  <span style="color:#00FFFF;">I custom scripts for FiveM</span><br>
+  <span style="color:#FFFFFF;">Clean architecture</span><br>
+  <span style="color:#8A2BE2;">Optimized performance</span><br>
+  <span style="color:#FF6B00;">Modern UI / NUI interfaces</span><br>
+  <span style="color:#00FF00;">Scalable and production-ready</span><br>
 </p>
 
 ---
@@ -23,16 +28,16 @@
 ## What I Build
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM%20Scripts-00CFFF?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%20%2F%20NUI%20Systems-8A2BE2?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frameworks-ESX%20%7C%20QBCore%20%7C%20Qbox-00F5FF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database%20%26%20Backend-FF6B00?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Integrations-00CFFF?style=for-the-badge&logo=react&logoColor=white"/>
+  <span style="color:#FF3B3F; font-weight:bold;">FiveM Scripts</span><br>
+  <span style="color:#00FFFF;">UI / NUI Systems</span><br>
+  <span style="color:#FFFFFF;">Framework Integrations (ESX / QBCore / Qbox)</span><br>
+  <span style="color:#8A2BE2;">Database & Backend Logic</span><br>
+  <span style="color:#00FF00;">Web Integrations</span>
 </p>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css,ts,nodejs,python,mysql,mongodb,react,php&perline=6" />
