@@ -1,13 +1,13 @@
 <h1 align="center">Talha Arif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=800&lines=FiveM+Script+Developer;Lua+%7C+JavaScript+%7C+NUI;ESX+%7C+QBCore+%7C+Qbox;Optimized+&+Professional+Resources" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=100&color=00CFFF&center=true&width=800&vCenter=true&lines=FiveM+Script+Developer;Lua+%7C+JavaScript+%7C+NUI;ESX+%7C+QBCore+%7C+Qbox;Optimized+&+Professional+Resources&animation=fade" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-ESX%20|%20QBCore%20|%20Qbox-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/Lua-Developer-000000?style=for-the-badge&logo=lua&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/FiveM-Script%20Creator-000000?style=for-the-badge&logo=rockstargames&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Framework-ESX%20|%20QBCore%20|%20Qbox-FFFFFF?style=for-the-badge&logo=github&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Lua-Developer-FFFFFF?style=for-the-badge&logo=lua&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/FiveM-Script%20Creator-FFFFFF?style=for-the-badge&logo=rockstargames&logoColor=00FFFF"/>
 </p>
 
 ---
@@ -15,12 +15,12 @@
 ## About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF3B3F&width=650&lines=FiveM+Script+Developer+from+Bangladesh" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=I+custom+scripts+for+FiveM" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FFFFFF&width=650&lines=Clean+architecture" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=000000&width=650&lines=Optimized+performance" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF3B3F&width=650&lines=Modern+UI+%2F+NUI+interfaces" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=Scalable+and+production-ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FF3B3F&width=650&lines=FiveM+Script+Developer+From+Bangladesh&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=00FFFF&width=650&lines=I+Custom+Scripts+For+FiveM&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FFFFFF&width=650&lines=Clean+Architecture&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=00FFFF&width=650&lines=Optimized+Performance&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FF3B3F&width=650&lines=Modern+UI+%2F+NUI+Interfaces&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=00FFFF&width=650&lines=Scalable+And+Production-Ready&animation=fade" />
 </p>
 
 ---
@@ -28,11 +28,11 @@
 ## What I Build
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FF3B3F&width=650&lines=FiveM+Scripts" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=UI+%2F+NUI" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=FFFFFF&width=650&lines=Framework+Integrations+(ESX+%2F+QBCore+%2F+Qbox)" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=000000&width=650&lines=Database+%26+Backend+Logic" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=500&color=00FFFF&width=650&lines=Web+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FF3B3F&width=650&lines=FiveM+Scripts&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=00FFFF&width=650&lines=UI+%2F+NUI&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FFFFFF&width=650&lines=Framework+Integrations+(ESX+%2F+QBCore+%2F+Qbox)&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=00FFFF&width=650&lines=Database+%26+Backend+Logic&animation=fade" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&pause=200&color=FF3B3F&width=650&lines=Web+Integrations&animation=fade" />
 </p>
 
 ---
