@@ -1,14 +1,14 @@
-# 💫 ABOUT ME
+# 💫 About Me
 
-🔭 **I BUILD CUSTOM FIVEM LUA SCRIPTS, DISCORD BOTS, WEB APPLICATIONS, AND ROBUST BACKEND SYSTEMS FROM SCRATCH**  
+🔭 **I Build Custom FiveM Lua Scripts, Discord Bots, Web Applications, And Robust Backend Systems From Scratch**  
 
-👯 **I COLLABORATE ON GAMING SERVERS, AUTOMATION PROJECTS, AND HIGH-PERFORMANCE PYTHON/NODE.JS TOOLS**  
+👯 **I Collaborate On Gaming Servers, Automation Projects, And High-Performance Python/Node.js Tools**  
 
-🌱 **I’M LEVELING UP ADVANCED PYTHON AUTOMATION, NODE.JS BACKEND, NPM & VITE WORKFLOWS, AND SCALABLE WEB SOLUTIONS**  
+🌱 **I’m Leveling Up Advanced Python Automation, Node.js Backend, Npm & Vite Workflows, And Scalable Web Solutions**  
 
-💬 **ASK ME ABOUT FIVEM SCRIPTING, DISCORD AUTOMATION, AND WEB DEVELOPMENT PIPELINES**  
+💬 **Ask Me About FiveM Scripting, Discord Automation, And Web Development Pipelines**  
 
-⚡ **FUN FACT: I CREATE SCRIPTS, BOTS, AND WEBSITES THAT RUN FASTER, CLEANER, AND MORE EFFICIENTLY THAN MOST “OFFICIAL” SOLUTIONS**
+⚡ **Fun Fact: I Create Scripts, Bots, And Websites That Run Faster, Cleaner, And More Efficiently Than Most “Official” Solutions**
 
 **Websites I developed:**  
 - **• Tebex:** [tebex.haaasib.dev](https://tebex.haaasib.dev/)  
