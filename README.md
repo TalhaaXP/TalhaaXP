@@ -1,15 +1,15 @@
 # 💫 About Me
 
-🔭 I build **custom FiveM Lua scripts, Discord bots, web applications, and robust backend systems** from scratch  
-👯 I collaborate on **gaming servers, automation projects, and high-performance Python/Node.js tools**  
-🌱 I’m leveling up **advanced Python automation, Node.js backend, npm & Vite workflows, and scalable web solutions**  
-💬 Ask me about **FiveM scripting, PvP server management, Discord automation, and web development pipelines**  
-⚡ Fun fact: **I create scripts, bots, and websites that run faster, cleaner, and more efficiently than most “official” solutions**  
+🔭 I Build **Custom FiveM Lua Scripts, Discord Bots, Web Applications, And Robust Backend Systems** From Scratch  
+👯 I Collaborate On **Gaming Servers, Automation Projects, And High-Performance Python/Node.js Tools**  
+🌱 I’m Leveling Up **Advanced Python Automation, Node.js Backend, Npm & Vite Workflows, And Scalable Web Solutions**  
+💬 Ask Me About **FiveM Scripting, PvP Server Management, Discord Automation, And Web Development Pipelines**  
+⚡ Fun Fact: **I Create Scripts, Bots, And Websites That Run Faster, Cleaner, And More Efficiently Than Most “Official” Solutions**
 
 **Websites I developed:**  
-- **• tebex:** [tebex.haaasib.dev](https://tebex.haaasib.dev/)  
-- **• visionaim:** [visionaim.xyz](https://www.visionaim.xyz/)  
-- **• nextgenvps:** [nextgenvps.shop](https://www.nextgenvps.shop/)  
+- **• Tebex:** [tebex.haaasib.dev](https://tebex.haaasib.dev/)  
+- **• VisionAim:** [visionaim.xyz](https://www.visionaim.xyz/)  
+- **• NextGenVps:** [nextgenvps.shop](https://www.nextgenvps.shop/)  
 
 ## 🌐 Socials
 
