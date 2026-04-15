@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 🔭 **I Build Custom FiveM Lua Scripts, Discord Bots, Web Applications, And Robust Backend Systems From Scratch**  
 
