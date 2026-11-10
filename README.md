@@ -1,9 +1,83 @@
 
+<!-- ======================================================== -->
+<!--                     TALHA XP                             -->
+<!-- ======================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF00&height=210&section=header&text=TALHA%20XP&fontSize=76&fontColor=FFFFFF&fontAlignY=43&desc=INDEPENDENT%20DEVELOPER%20%20%E2%80%94%20%20BANGLADESH&descSize=12&descAlignY=69&descColor=85858B" />
+
+<br/>
+
+**TALHA ARIF**
+
+FiveM Developer & Full-Stack Developer
+
+[Portfolio](https://www.talhaa.dev/) &nbsp;·&nbsp; [GitHub](https://github.com/TalhaaXP) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3)
+
+</div>
+
+<br/>
+
+---
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
+### ABOUT
+
+I'm Talha, a developer focused on FiveM and web development.
+
+I build custom Lua resources, web applications, Discord bots, and backend systems. I enjoy working on independent projects and exploring different areas of software development.
+
+</td>
+<td width="38%" valign="top">
+
+### FOCUS
+
+FiveM Development  
+Full-Stack Web  
+Backend Systems  
+Discord Automation
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
-<h3>SELECTED WORK</h3>
+### TECHNOLOGIES
+
+<sub>The languages and tools I work with.</sub>
+
+</div>
+
+**LANGUAGES**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell&theme=dark" />
+</div>
+
+**FRAMEWORKS & RUNTIME**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs&theme=dark" />
+</div>
+
+**DATABASES & TOOLS**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase,prisma,git,github,figma,arduino,npm&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+
+### SELECTED WORK
 
 <sub>Websites I've developed and contributed to.</sub>
 
@@ -13,7 +87,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://icons.duckduckgo.com/ip3/tebex.haaasib.dev.ico" width="40" height="40" alt="Tebex" />
+<img src="https://camo.githubusercontent.com/3ce4a42624b04f3bc79941aa0cb590de6dd0ef22b77c1a3f4f4a0420a3d0f459/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f74656265782e686161617369622e6465762e69636f" width="40" height="40" alt="Tebex" />
 
 <br/>
 
@@ -26,7 +100,7 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="https://icons.duckduckgo.com/ip3/visionaim.xyz.ico" width="40" height="40" alt="VisionAim" />
+<img src="https://camo.githubusercontent.com/e9385c7eba125adeae7c7aa0c2f8294cd561d6c6ccffd9fd9078bb8ef42a9f8c/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f766973696f6e61696d2e78797a2e69636f" width="40" height="40" alt="VisionAim" />
 
 <br/>
 
@@ -41,7 +115,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://icons.duckduckgo.com/ip3/nextgenvps.shop.ico" width="40" height="40" alt="NextGenVPS" />
+<img src="https://camo.githubusercontent.com/ac6e9242c6bfba10026dc93e98cf20b3d16434181f9d2c15917d39bb5e46b49f/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f6e65787467656e7670732e73686f702e69636f" width="40" height="40" alt="NextGenVPS" />
 
 <br/>
 
@@ -54,7 +128,7 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="https://icons.duckduckgo.com/ip3/somiti.store.ico" width="40" height="40" alt="Somiti Store" />
+<img src="https://camo.githubusercontent.com/1ede02203182d6048356fdccabbb2c08cba0f5c2346534ed5e04135326fb0d8c/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f736f6d6974692e73746f72652e69636f" width="40" height="40" alt="Somiti Store" />
 
 <br/>
 
@@ -71,3 +145,21 @@
 </div>
 
 ---
+
+<div align="center">
+
+### ELSEWHERE
+
+[Website](https://www.talhaa.dev/) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3) &nbsp;·&nbsp; [Instagram](https://instagram.com/talhaiss7) &nbsp;·&nbsp; [Email](mailto:talhachan69@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat-square&color=222222&label=VISITORS" />
+
+<br/><br/>
+
+<sub>© 2026 TALHA XP</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF00&height=65&section=footer" />
+
+</div>
