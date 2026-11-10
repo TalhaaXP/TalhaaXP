@@ -1,28 +1,24 @@
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                         TALHA XP                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=TALHA%20XP&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20CREATOR&descSize=13&descAlignY=70&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=TALHA%20XP&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=FIVEM%20%2F%20WEB%20%2F%20SOFTWARE%20DEVELOPER&descSize=13&descAlignY=70&descColor=8b949e" width="100%" />
 
 <br/>
 
-**FiveM Developer · Full-Stack Developer · Software Engineer**
+**Talha Arif**  
+FiveM & Full-Stack Developer
 
-*Turning ideas into functional digital experiences.*
+I spend most of my time coding, building projects, and figuring out how things work.
 
 <br/>
 
-<a href="https://www.talhaa.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=googlechrome&logoColor=000000" />
-</a>
-<a href="https://github.com/TalhaaXP">
-  <img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/DISCORD-161B22?style=flat-square&logo=discord&logoColor=white" />
-</a>
+<a href="https://www.talhaa.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=googlechrome&logoColor=000000" /></a>
+<a href="https://github.com/TalhaaXP"><img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://discord.gg/bZEvG5bqc3"><img src="https://img.shields.io/badge/DISCORD-161B22?style=flat-square&logo=discord&logoColor=white" /></a>
 
 </div>
 
@@ -30,90 +26,51 @@
 
 ### 01 / ABOUT
 
-I'm Talha, a developer focused on building custom software, FiveM resources, web applications, and backend systems.
+Hey, I'm Talha. I'm a developer working mainly with FiveM, Lua, JavaScript, and web technologies.
 
-I enjoy solving technical problems, developing useful products, and turning concepts into working solutions.
+I build custom FiveM resources, websites, Discord bots, and backend systems. I also enjoy experimenting with new tools and working on my own projects.
 
-**Currently focused on:** FiveM · Web Development · Backend Engineering
+### 02 / WHAT I WORK WITH
 
-### 02 / EXPERTISE
-
-| DOMAIN | FOCUS |
+| AREA | TECHNOLOGIES |
 |:--|:--|
-| FiveM | Custom Lua Resources, Server Systems, NUI |
-| Web | Full-Stack Applications, Modern Interfaces |
-| Backend | APIs, Databases, Server Architecture |
-| Automation | Discord Bots, Python & Node.js Tools |
+| FiveM | Lua, NUI, QBCore, Qbox |
+| Frontend | HTML, CSS, JavaScript, React, Next.js |
+| Backend | Node.js, Python, PHP, Flask |
+| Database | MySQL, MariaDB, Redis, Firebase, Supabase |
+| Other | Git, Prisma, Vite, Figma |
 
-### 03 / TECHNOLOGIES
+### 03 / TECH STACK
 
 **LANGUAGES**
 
-<p>
-<img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell" /></p>
 
-**FRAMEWORKS & RUNTIME**
+**FRAMEWORKS**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs" /></p>
 
-**DATABASES & INFRASTRUCTURE**
+**DATABASES & TOOLS**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,supabase,prisma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,supabase,prisma,git,github,figma,arduino,npm" /></p>
 
-**TOOLS & DESIGN**
+### 04 / PROJECTS
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,arduino,npm" />
-</p>
+| PROJECT | WEBSITE |
+|:--|:--|
+| Tebex | [tebex.haaasib.dev ↗](https://tebex.haaasib.dev/) |
+| VisionAim | [visionaim.xyz ↗](https://visionaim.xyz/) |
+| NextGenVPS | [nextgenvps.shop ↗](https://www.nextgenvps.shop/) |
+| Somiti Store | [somiti.store ↗](https://www.somiti.store/) |
 
-### 04 / SELECTED WORK
+### 05 / ELSEWHERE
 
-<div align="center">
-
-| PROJECT | DESCRIPTION | LINK |
-|:--|:--|:--|
-| **Tebex** | Gaming & Digital Infrastructure | [Visit ↗](https://tebex.haaasib.dev/) |
-| **VisionAim** | Gaming Platform | [Visit ↗](https://visionaim.xyz/) |
-| **NextGenVPS** | VPS & Hosting Platform | [Visit ↗](https://nextgenvps.shop/) |
-| **Somiti Store** | E-Commerce Platform | [Visit ↗](https://somiti.store/) |
-
-</div>
-
-### 05 / CONNECT
+[Portfolio](https://www.talhaa.dev/) · [Discord](https://discord.gg/bZEvG5bqc3) · [Instagram](https://instagram.com/talhaiss7) · [Email](mailto:talhachan69@gmail.com)
 
 <div align="center">
 
-<a href="https://www.talhaa.dev/">
-  <img src="https://img.shields.io/badge/WEBSITE-talhaa.dev-white?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
+<sub>Thanks for stopping by.</sub>
 
-<br/><br/>
-
-<a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</a>
-<a href="https://instagram.com/talhaiss7">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:talhachan69@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>Designed with intent. Built with purpose.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=45&section=footer" width="100%" />
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       END OF README                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
