@@ -1,28 +1,19 @@
-<!-- ========================================================= -->
-<!--                       TALHA XP                            -->
-<!-- ========================================================= -->
+
+<!-- ======================================================== -->
+<!--                     TALHA XP                             -->
+<!-- ======================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=190&section=header&text=TALHA%20XP&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=FIVEM%20%20%C2%B7%20%20WEB%20%20%C2%B7%20%20SOFTWARE%20DEVELOPER&descSize=12&descAlignY=68&descColor=858B98" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=210&section=header&text=TALHA%20XP&fontSize=76&fontColor=F5F5F5&fontAlignY=43&desc=INDEPENDENT%20DEVELOPER%20%20%E2%80%94%20%20BANGLADESH&descSize=12&descAlignY=69&descColor=85858B" />
 
 <br/>
-
-<a href="https://www.talhaa.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=googlechrome&logoColor=111111" /></a>
-&nbsp;
-<a href="https://github.com/TalhaaXP"><img src="https://img.shields.io/badge/GITHUB-20232B?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
-&nbsp;
-<a href="https://discord.gg/bZEvG5bqc3"><img src="https://img.shields.io/badge/DISCORD-20232B?style=flat-square&logo=discord&logoColor=FFFFFF" /></a>
-
-<br/><br/>
 
 **TALHA ARIF**
 
-FiveM & Full-Stack Developer
+FiveM Developer & Full-Stack Developer
 
-<br/>
-
-<sub>Building FiveM resources, websites, bots and software.</sub>
+[Portfolio](https://www.talhaa.dev/) &nbsp;·&nbsp; [GitHub](https://github.com/TalhaaXP) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3)
 
 </div>
 
@@ -32,24 +23,23 @@ FiveM & Full-Stack Developer
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-<h3>ABOUT ME</h3>
+### ABOUT
 
-Hey, I'm Talha. I work mainly with FiveM, Lua, JavaScript, and web technologies.
+I'm Talha, a developer focused on FiveM and web development.
 
-I enjoy developing custom resources, building websites, and working on different software projects.
+I build custom Lua resources, web applications, Discord bots, and backend systems. I enjoy working on independent projects and exploring different areas of software development.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-<h3>WHAT I DO</h3>
+### FOCUS
 
-- FiveM Development
-- Full-Stack Web Development
-- Discord Bots
-- Backend Development
-- Automation
+FiveM Development  
+Full-Stack Web  
+Backend Systems  
+Discord Automation
 
 </td>
 </tr>
@@ -59,137 +49,78 @@ I enjoy developing custom resources, building websites, and working on different
 
 <div align="center">
 
-## TECHNOLOGIES
+### TECHNOLOGIES
 
-<sub>Tools and technologies I use across my projects.</sub>
-
-<br/><br/>
+*The languages and tools I work with.*
 
 </div>
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
 
 **LANGUAGES**
 
-<br/><br/>
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell&theme=dark" />
-
-</td>
-<td width="50%" align="center" valign="middle">
+</div>
 
 **FRAMEWORKS & RUNTIME**
 
-<br/><br/>
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs&theme=dark" />
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
+**DATABASES & TOOLS**
 
-**DATABASES**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase&theme=dark" />
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-**TOOLS & OTHER**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,arduino,npm,prisma&theme=dark" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase,prisma,git,github,figma,arduino,npm&theme=dark" />
+</div>
 
 ---
 
 <div align="center">
 
-## SELECTED PROJECTS
+### SELECTED PROJECTS
 
-<sub>Some websites I've worked on.</sub>
+*Websites I've developed or contributed to.*
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<br/>
+**01 / TEBEX**
 
-**01 — TEBEX**
+Gaming & digital services.
 
-<sub>Gaming & Digital Services</sub>
-
-<br/><br/>
-
-<a href="https://tebex.haaasib.dev/">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
+[tebex.haaasib.dev ↗](https://tebex.haaasib.dev/)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<br/>
+**02 / VISIONAIM**
 
-**02 — VISIONAIM**
+Gaming platform.
 
-<sub>Gaming Platform</sub>
-
-<br/><br/>
-
-<a href="https://visionaim.xyz/">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
+[visionaim.xyz ↗](https://visionaim.xyz/)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<br/>
+**03 / NEXTGENVPS**
 
-**03 — NEXTGENVPS**
+VPS & hosting platform.
 
-<sub>VPS & Hosting</sub>
-
-<br/><br/>
-
-<a href="https://nextgenvps.shop/">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
+[nextgenvps.shop ↗](https://www.nextgenvps.shop/)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<br/>
+**04 / SOMITI STORE**
 
-**04 — SOMITI STORE**
+E-commerce platform.
 
-<sub>E-Commerce</sub>
-
-<br/><br/>
-
-<a href="https://somiti.store/">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
+[somiti.store ↗](https://www.somiti.store/)
 
 </td>
 </tr>
@@ -199,40 +130,18 @@ I enjoy developing custom resources, building websites, and working on different
 
 <div align="center">
 
-## CONNECT
+### ELSEWHERE
+
+[Website](https://www.talhaa.dev/) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3) &nbsp;·&nbsp; [Instagram](https://instagram.com/talhaiss7) &nbsp;·&nbsp; [Email](mailto:talhachan69@gmail.com)
 
 <br/>
 
-<a href="https://www.talhaa.dev/">
-<img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" />
-</a>
-<a href="https://discord.gg/bZEvG5bqc3">
-<img src="https://img.shields.io/badge/DISCORD-20232B?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<a href="https://instagram.com/talhaiss7">
-<img src="https://img.shields.io/badge/INSTAGRAM-20232B?style=flat-square&logo=instagram&logoColor=FFFFFF" />
-</a>
-<a href="mailto:talhachan69@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-20232B?style=flat-square&logo=gmail&logoColor=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat-square&color=20232B&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat-square&color=222222&label=VISITORS" />
 
 <br/><br/>
 
 <sub>© 2026 TALHA XP</sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=65&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=65&section=footer" />
 
 </div>
-
-<!-- ========================================================= -->
-<!--                       END                                 -->
-<!-- ========================================================= -->
