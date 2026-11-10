@@ -170,7 +170,7 @@
 </a>
 &nbsp;
 <a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/Discord-bZEvG5bqc3-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/talhaiss7">
