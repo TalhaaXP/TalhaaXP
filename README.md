@@ -87,7 +87,7 @@ Discord Automation
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://camo.githubusercontent.com/3ce4a42624b04f3bc79941aa0cb590de6dd0ef22b77c1a3f4f4a0420a3d0f459/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f74656265782e686161617369622e6465762e69636f" width="40" height="40" alt="Tebex" />
+<img src="https://icons.duckduckgo.com/ip3/tebex.haaasib.dev.ico" width="40" height="40" alt="Tebex Logo" />
 
 <br/>
 
@@ -100,7 +100,7 @@ Discord Automation
 </td>
 <td width="50%" valign="top">
 
-<img src="https://camo.githubusercontent.com/e9385c7eba125adeae7c7aa0c2f8294cd561d6c6ccffd9fd9078bb8ef42a9f8c/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f766973696f6e61696d2e78797a2e69636f" width="40" height="40" alt="VisionAim" />
+<img src="https://icons.duckduckgo.com/ip3/visionaim.xyz.ico" width="40" height="40" alt="VisionAim Logo" />
 
 <br/>
 
@@ -115,7 +115,7 @@ Discord Automation
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://camo.githubusercontent.com/ac6e9242c6bfba10026dc93e98cf20b3d16434181f9d2c15917d39bb5e46b49f/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f6e65787467656e7670732e73686f702e69636f" width="40" height="40" alt="NextGenVPS" />
+<img src="https://icons.duckduckgo.com/ip3/nextgenvps.shop.ico" width="40" height="40" alt="NextGenVPS Logo" />
 
 <br/>
 
@@ -128,7 +128,7 @@ Discord Automation
 </td>
 <td width="50%" valign="top">
 
-<img src="https://camo.githubusercontent.com/1ede02203182d6048356fdccabbb2c08cba0f5c2346534ed5e04135326fb0d8c/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f736f6d6974692e73746f72652e69636f" width="40" height="40" alt="Somiti Store" />
+<img src="https://icons.duckduckgo.com/ip3/somiti.store.ico" width="40" height="40" alt="Somiti Store Logo" />
 
 <br/>
 
