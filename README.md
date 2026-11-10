@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=210&section=header&text=TALHA%20XP&fontSize=76&fontColor=F5F5F5&fontAlignY=43&desc=INDEPENDENT%20DEVELOPER%20%20%E2%80%94%20%20BANGLADESH&descSize=12&descAlignY=69&descColor=85858B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF00&height=210&section=header&text=TALHA%20XP&fontSize=76&fontColor=FFFFFF&fontAlignY=43&desc=INDEPENDENT%20DEVELOPER%20%20%E2%80%94%20%20BANGLADESH&descSize=12&descAlignY=69&descColor=85858B" />
 
 <br/>
 
@@ -142,6 +142,6 @@ Discord Automation
 
 <sub>© 2026 TALHA XP</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=65&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF00&height=65&section=footer" />
 
 </div>
