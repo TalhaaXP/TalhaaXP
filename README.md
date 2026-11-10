@@ -77,28 +77,28 @@ Discord Automation
 
 <div align="center">
 
-### SELECTED PROJECTS
+### SELECTED WORK
 
-*Websites I've developed or contributed to.*
+<sub>Some websites I've developed or contributed to.</sub>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**01 / TEBEX**
+**01 — TEBEX**
 
-Gaming & digital services.
+<sub>GAMING / DIGITAL SERVICES</sub>
 
 [tebex.haaasib.dev ↗](https://tebex.haaasib.dev/)
 
 </td>
 <td width="50%" valign="top">
 
-**02 / VISIONAIM**
+**02 — VISIONAIM**
 
-Gaming platform.
+<sub>GAMING PLATFORM</sub>
 
 [visionaim.xyz ↗](https://visionaim.xyz/)
 
@@ -107,20 +107,20 @@ Gaming platform.
 <tr>
 <td width="50%" valign="top">
 
-**03 / NEXTGENVPS**
+**03 — NEXTGENVPS**
 
-VPS & hosting platform.
+<sub>VPS / WEB HOSTING</sub>
 
-[nextgenvps.shop ↗](https://www.nextgenvps.shop/)
+[nextgenvps.shop ↗](https://nextgenvps.shop/)
 
 </td>
 <td width="50%" valign="top">
 
-**04 / SOMITI STORE**
+**04 — SOMITI STORE**
 
-E-commerce platform.
+<sub>E-COMMERCE</sub>
 
-[somiti.store ↗](https://www.somiti.store/)
+[somiti.store ↗](https://somiti.store/)
 
 </td>
 </tr>
