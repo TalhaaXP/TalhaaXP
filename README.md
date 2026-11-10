@@ -148,14 +148,13 @@
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TalhaaXP&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=38BDF8&text_color=E2E8F0&ring_color=38BDF8" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaaXP&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaaXP&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=E2E8F0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaaXP&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" height="280" />
 </div>
 
 <br/>
