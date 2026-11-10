@@ -51,7 +51,7 @@ Discord Automation
 
 ### TECHNOLOGIES
 
-*The languages and tools I work with.*
+<sub>The languages and tools I work with.</sub>
 
 </div>
 
@@ -79,7 +79,7 @@ Discord Automation
 
 ### SELECTED WORK
 
-<sub>Some websites I've developed or contributed to.</sub>
+<sub>Websites I've developed and contributed to.</sub>
 
 </div>
 
@@ -87,40 +87,40 @@ Discord Automation
 <tr>
 <td width="50%" valign="top">
 
-**01 — TEBEX**
+**01 / TEBEX**
 
-<sub>GAMING / DIGITAL SERVICES</sub>
+<sub>GAMING & DIGITAL SERVICES</sub>
 
-[tebex.haaasib.dev ↗](https://tebex.haaasib.dev/)
+[tebex.haaasib.dev](https://tebex.haaasib.dev/)
 
 </td>
 <td width="50%" valign="top">
 
-**02 — VISIONAIM**
+**02 / VISIONAIM**
 
 <sub>GAMING PLATFORM</sub>
 
-[visionaim.xyz ↗](https://visionaim.xyz/)
+[visionaim.xyz](https://visionaim.xyz/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — NEXTGENVPS**
+**03 / NEXTGENVPS**
 
-<sub>VPS / WEB HOSTING</sub>
+<sub>VPS & WEB HOSTING</sub>
 
-[nextgenvps.shop ↗](https://nextgenvps.shop/)
+[nextgenvps.shop](https://nextgenvps.shop/)
 
 </td>
 <td width="50%" valign="top">
 
-**04 — SOMITI STORE**
+**04 / SOMITI STORE**
 
 <sub>E-COMMERCE</sub>
 
-[somiti.store ↗](https://somiti.store/)
+[somiti.store](https://somiti.store/)
 
 </td>
 </tr>
