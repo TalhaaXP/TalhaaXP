@@ -3,31 +3,25 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0f172a&height=220&section=header&text=TALHA%20XP&fontSize=72&fontColor=f8fafc&fontAlignY=38&desc=FiveM%20Developer%20%20%E2%80%A2%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20Bangladesh&descSize=15&descAlignY=62&descColor=94a3b8" />
-</div>
+  <img src="https://www.talhaa.dev/favicon.svg" height="130" alt="Talha." />
+  
+  <br/><br/>
 
-<br/>
+  **FiveM Developer · Full-Stack Developer · Bangladesh**
 
-<div align="center">
+  <br/>
 
-### **TALHA ARIF**
-
-**FiveM Developer · Full-Stack Developer**
-
-<br/>
-
-<a href="https://www.talhaa.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-talhaa.dev-0f172a?style=flat&logo=vercel&logoColor=white&labelColor=0f172a" height="28"/>
-</a>
-&nbsp;
-<a href="https://github.com/TalhaaXP">
-  <img src="https://img.shields.io/badge/GitHub-TalhaaXP-111827?style=flat&logo=github&logoColor=white&labelColor=111827" height="28"/>
-</a>
-&nbsp;
-<a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
-</a>
-
+  <a href="https://www.talhaa.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-talhaa.dev-0f172a?style=flat&logo=vercel&logoColor=white&labelColor=0f172a" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/TalhaaXP">
+    <img src="https://img.shields.io/badge/GitHub-TalhaaXP-111827?style=flat&logo=github&logoColor=white&labelColor=111827" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/bZEvG5bqc3">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
+  </a>
 </div>
 
 <br/>
@@ -193,10 +187,4 @@
 
 <div align="center">
   <sub>© 2026 TALHA XP</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0f172a&height=120&section=footer" />
 </div>
