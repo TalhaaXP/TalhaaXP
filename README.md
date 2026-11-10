@@ -12,7 +12,7 @@
 
 ### **TALHA ARIF**
 
-**FiveM Developer · Full-Stack Developer · System Architect**
+**FiveM Developer · Full-Stack Developer**
 
 <br/>
 
@@ -44,11 +44,11 @@
 
 <div align="center">
   <p>
-    Independent developer from <b>Bangladesh</b> focused on building high-performance systems.<br/>
-    Specialized in custom <b>FiveM</b> resources, modern web applications, backend infrastructure, and automation tools.
+    I'm Talha, a developer from Bangladesh focused on FiveM and web development.
   </p>
   <p>
-    I build clean, scalable, and production-ready solutions — from game systems to full-stack platforms.
+    I build custom Lua resources, web applications, Discord bots, and backend systems.<br/>
+    I enjoy working on independent projects and exploring different areas of software development.
   </p>
 </div>
 
@@ -127,7 +127,7 @@
     <td align="center" width="280">
       <img src="https://website-cdn.netlify.app/S%20logo.png" height="46" alt="SOMITI" /><br/><br/>
       <b>SOMITI STORE</b><br/>
-      <sub>E-Commerce Platform</sub><br/><br/>
+      <sub>E-Commerce</sub><br/><br/>
       <a href="https://somiti.store/">
         <img src="https://img.shields.io/badge/Visit-somiti.store-0f172a?style=flat-square&logo=googlechrome&logoColor=white" />
       </a>
