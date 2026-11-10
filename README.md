@@ -21,7 +21,7 @@ FiveM Developer & Full-Stack Developer
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="62%" valign="top">
 
@@ -81,11 +81,11 @@ Discord Automation
 
 <sub>Websites I've developed and contributed to.</sub>
 
-</div>
+<br/><br/>
 
-<table width="100%">
+<table align="center" width="75%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **01 / TEBEX**
 
@@ -94,7 +94,7 @@ Discord Automation
 [tebex.haaasib.dev](https://tebex.haaasib.dev/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **02 / VISIONAIM**
 
@@ -105,7 +105,7 @@ Discord Automation
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **03 / NEXTGENVPS**
 
@@ -114,7 +114,7 @@ Discord Automation
 [nextgenvps.shop](https://nextgenvps.shop/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top">
 
 **04 / SOMITI STORE**
 
@@ -125,6 +125,8 @@ Discord Automation
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
