@@ -17,15 +17,15 @@
 <br/>
 
 <a href="https://www.talhaa.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-talhaa.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Portfolio-talhaa.dev-0f172a?style=flat&logo=vercel&logoColor=white&labelColor=0f172a" height="28"/>
 </a>
 &nbsp;
 <a href="https://github.com/TalhaaXP">
-  <img src="https://img.shields.io/badge/GitHub-TalhaaXP-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/GitHub-TalhaaXP-111827?style=flat&logo=github&logoColor=white&labelColor=111827" height="28"/>
 </a>
 &nbsp;
 <a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
 </a>
 
 </div>
@@ -37,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-ABOUT-0f172a?style=for-the-badge&labelColor=0f172a" />
+  <h3>ABOUT</h3>
 </div>
 
 <br/>
@@ -59,7 +59,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-TECH%20STACK-0f172a?style=for-the-badge&labelColor=0f172a" />
+  <h3>TECH STACK</h3>
 </div>
 
 <br/>
@@ -91,7 +91,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-SELECTED%20WORK-0f172a?style=for-the-badge&labelColor=0f172a" />
+  <h3>SELECTED WORK</h3>
 </div>
 
 <br/>
@@ -103,7 +103,7 @@
       <b>TEBEX</b><br/>
       <sub>Gaming & Digital Services</sub><br/><br/>
       <a href="https://tebex.haaasib.dev/">
-        <img src="https://img.shields.io/badge/Visit-tebex.haaasib.dev-0f172a?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-tebex.haaasib.dev-0f172a?style=flat&logo=googlechrome&logoColor=white" height="22"/>
       </a>
     </td>
     <td align="center" width="280">
@@ -111,7 +111,7 @@
       <b>VISIONAIM</b><br/>
       <sub>Gaming Platform</sub><br/><br/>
       <a href="https://visionaim.xyz/">
-        <img src="https://img.shields.io/badge/Visit-visionaim.xyz-0f172a?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-visionaim.xyz-0f172a?style=flat&logo=googlechrome&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
@@ -121,7 +121,7 @@
       <b>NEXTGENVPS</b><br/>
       <sub>VPS & Web Hosting</sub><br/><br/>
       <a href="https://nextgenvps.shop/">
-        <img src="https://img.shields.io/badge/Visit-nextgenvps.shop-0f172a?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-nextgenvps.shop-0f172a?style=flat&logo=googlechrome&logoColor=white" height="22"/>
       </a>
     </td>
     <td align="center" width="280">
@@ -129,7 +129,7 @@
       <b>SOMITI STORE</b><br/>
       <sub>E-Commerce</sub><br/><br/>
       <a href="https://somiti.store/">
-        <img src="https://img.shields.io/badge/Visit-somiti.store-0f172a?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-somiti.store-0f172a?style=flat&logo=googlechrome&logoColor=white" height="22"/>
       </a>
     </td>
   </tr>
@@ -142,7 +142,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-GITHUB%20STATS-0f172a?style=for-the-badge&labelColor=0f172a" />
+  <h3>GITHUB STATS</h3>
 </div>
 
 <br/>
@@ -158,7 +158,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-CONNECT-0f172a?style=for-the-badge&labelColor=0f172a" />
+  <h3>CONNECT</h3>
 </div>
 
 <br/>
@@ -166,19 +166,19 @@
 <div align="center">
 
 <a href="https://www.talhaa.dev/">
-  <img src="https://img.shields.io/badge/Website-talhaa.dev-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Website-talhaa.dev-0f172a?style=flat&logo=googlechrome&logoColor=white&labelColor=0f172a" height="28"/>
 </a>
 &nbsp;
 <a href="https://discord.gg/bZEvG5bqc3">
-  <img src="https://img.shields.io/badge/Discord-bZEvG5bqc3-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+  <img src="https://img.shields.io/badge/Discord-bZEvG5bqc3-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" height="28"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/talhaiss7">
-  <img src="https://img.shields.io/badge/Instagram-talhaiss7-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C" />
+  <img src="https://img.shields.io/badge/Instagram-talhaiss7-E1306C?style=flat&logo=instagram&logoColor=white&labelColor=E1306C" height="28"/>
 </a>
 &nbsp;
 <a href="mailto:talhachan69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
 </a>
 
 </div>
@@ -186,7 +186,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat&color=0f172a&label=PROFILE+VIEWS" height="24"/>
 </div>
 
 <br/>
