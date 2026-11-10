@@ -1,56 +1,54 @@
-
 <!-- ========================================================= -->
 <!--                       TALHA XP                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0d12&height=200&section=header&text=TALHA%20XP&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=DEVELOPER%20%20%E2%80%A2%20%20FIVEM%20%20%E2%80%A2%20%20FULL%20STACK&descSize=12&descAlignY=67&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=190&section=header&text=TALHA%20XP&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=FIVEM%20%20%C2%B7%20%20WEB%20%20%C2%B7%20%20SOFTWARE%20DEVELOPER&descSize=12&descAlignY=68&descColor=858B98" />
 
 <br/>
 
-<a href="https://www.talhaa.dev/">
-<img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=flat-square&logo=googlechrome&logoColor=111111" />
-</a>
+<a href="https://www.talhaa.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=googlechrome&logoColor=111111" /></a>
 &nbsp;
-<a href="https://github.com/TalhaaXP">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
+<a href="https://github.com/TalhaaXP"><img src="https://img.shields.io/badge/GITHUB-20232B?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
 &nbsp;
-<a href="https://discord.gg/bZEvG5bqc3">
-<img src="https://img.shields.io/badge/DISCORD-161B22?style=flat-square&logo=discord&logoColor=FFFFFF" />
-</a>
+<a href="https://discord.gg/bZEvG5bqc3"><img src="https://img.shields.io/badge/DISCORD-20232B?style=flat-square&logo=discord&logoColor=FFFFFF" /></a>
 
 <br/><br/>
 
-**Talha Arif**
+**TALHA ARIF**
 
-*FiveM & Full-Stack Developer*
+FiveM & Full-Stack Developer
+
+<br/>
+
+<sub>Building FiveM resources, websites, bots and software.</sub>
 
 </div>
 
 <br/>
 
+---
+
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="58%" valign="top">
 
-### ABOUT
+<h3>ABOUT ME</h3>
 
-Hey, I'm Talha.
+Hey, I'm Talha. I work mainly with FiveM, Lua, JavaScript, and web technologies.
 
-I work on FiveM resources, web applications, Discord bots, and backend projects.
-
-Most of my work revolves around Lua, JavaScript, Python, and building things from scratch.
+I enjoy developing custom resources, building websites, and working on different software projects.
 
 </td>
-<td width="35%" valign="top">
+<td width="42%" valign="top">
 
-### FOCUS
+<h3>WHAT I DO</h3>
 
 - FiveM Development
-- Web Development
-- Backend Systems
+- Full-Stack Web Development
+- Discord Bots
+- Backend Development
 - Automation
 
 </td>
@@ -61,40 +59,50 @@ Most of my work revolves around Lua, JavaScript, Python, and building things fro
 
 <div align="center">
 
-### TECHNICAL SKILLS
+## TECHNOLOGIES
 
-*Languages, frameworks & tools I work with.*
+<sub>Tools and technologies I use across my projects.</sub>
+
+<br/><br/>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**01 — LANGUAGES**
+**LANGUAGES**
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell&theme=dark" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**02 — FRAMEWORKS**
+**FRAMEWORKS & RUNTIME**
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs&theme=dark" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**03 — DATABASES**
+**DATABASES**
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,supabase&theme=dark" />
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase&theme=dark" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**04 — TOOLS**
+**TOOLS & OTHER**
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,arduino,npm,prisma&theme=dark" />
 
@@ -106,50 +114,82 @@ Most of my work revolves around Lua, JavaScript, Python, and building things fro
 
 <div align="center">
 
-### SELECTED PROJECTS
+## SELECTED PROJECTS
 
-*A few websites I've worked on.*
+<sub>Some websites I've worked on.</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**01 / TEBEX**
+<br/>
 
-Gaming server & digital infrastructure.
+**01 — TEBEX**
 
-<a href="https://tebex.haaasib.dev/">VISIT WEBSITE ↗</a>
+<sub>Gaming & Digital Services</sub>
+
+<br/><br/>
+
+<a href="https://tebex.haaasib.dev/">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**02 / VISIONAIM**
+<br/>
 
-Gaming platform.
+**02 — VISIONAIM**
 
-<a href="https://visionaim.xyz/">VISIT WEBSITE ↗</a>
+<sub>Gaming Platform</sub>
+
+<br/><br/>
+
+<a href="https://visionaim.xyz/">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**03 / NEXTGENVPS**
+<br/>
 
-VPS and hosting platform.
+**03 — NEXTGENVPS**
 
-<a href="https://nextgenvps.shop/">VISIT WEBSITE ↗</a>
+<sub>VPS & Hosting</sub>
+
+<br/><br/>
+
+<a href="https://nextgenvps.shop/">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**04 / SOMITI STORE**
+<br/>
 
-E-commerce platform.
+**04 — SOMITI STORE**
 
-<a href="https://somiti.store/">VISIT WEBSITE ↗</a>
+<sub>E-Commerce</sub>
+
+<br/><br/>
+
+<a href="https://somiti.store/">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-20232B?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 </td>
 </tr>
@@ -159,24 +199,40 @@ E-commerce platform.
 
 <div align="center">
 
-### FIND ME ELSEWHERE
+## CONNECT
 
-<a href="https://www.talhaa.dev/">PORTFOLIO</a>
-&nbsp; / &nbsp;
-<a href="https://discord.gg/bZEvG5bqc3">DISCORD</a>
-&nbsp; / &nbsp;
-<a href="https://instagram.com/talhaiss7">INSTAGRAM</a>
-&nbsp; / &nbsp;
-<a href="mailto:talhachan69@gmail.com">EMAIL</a>
+<br/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat-square&color=161b22&label=PROFILE+VIEWS" />
+<a href="https://www.talhaa.dev/">
+<img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" />
+</a>
+<a href="https://discord.gg/bZEvG5bqc3">
+<img src="https://img.shields.io/badge/DISCORD-20232B?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
+</a>
 
 <br/><br/>
 
-<sub>© Talha XP</sub>
+<a href="https://instagram.com/talhaiss7">
+<img src="https://img.shields.io/badge/INSTAGRAM-20232B?style=flat-square&logo=instagram&logoColor=FFFFFF" />
+</a>
+<a href="mailto:talhachan69@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-20232B?style=flat-square&logo=gmail&logoColor=FFFFFF" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0d12&height=65&section=footer" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat-square&color=20232B&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<sub>© 2026 TALHA XP</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=65&section=footer" />
 
 </div>
+
+<!-- ========================================================= -->
+<!--                       END                                 -->
+<!-- ========================================================= -->
