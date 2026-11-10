@@ -1,4 +1,3 @@
-
 <!-- ======================================================== -->
 <!--                         TALHA XP                         -->
 <!-- ======================================================== -->
@@ -89,6 +88,10 @@ Discord Automation
 
 <sub>01 / GAMING & DIGITAL SERVICES</sub>
 
+<br/>
+
+<img src="https://tebex.haaasib.dev/logo.png" height="48" alt="TEBEX" />
+
 <br/><br/>
 
 <code>TEBEX</code>
@@ -101,6 +104,10 @@ Discord Automation
 <td width="50%" align="center" valign="middle">
 
 <sub>02 / GAMING PLATFORM</sub>
+
+<br/>
+
+<img src="https://www.visionaim.xyz/favicon.ico" height="48" alt="VISIONAIM" />
 
 <br/><br/>
 
@@ -117,6 +124,10 @@ Discord Automation
 
 <sub>03 / VPS & WEB HOSTING</sub>
 
+<br/>
+
+<img src="https://www.nextgenvps.shop/assets/logo--HApASdi.png" height="48" alt="NEXTGENVPS" />
+
 <br/><br/>
 
 <code>NEXTGENVPS</code>
@@ -129,6 +140,10 @@ Discord Automation
 <td width="50%" align="center" valign="middle">
 
 <sub>04 / E-COMMERCE</sub>
+
+<br/>
+
+<img src="https://website-cdn.netlify.app/S%20logo.png" height="48" alt="SOMITI" />
 
 <br/><br/>
 
