@@ -68,7 +68,7 @@ Discord Automation
 
 **DATABASES & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase,prisma,git,github,figma,arduino,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,supabase,prisma,git,github,figma,arduino,npm&theme=dark" />
 
 </div>
 
