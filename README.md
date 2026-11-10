@@ -87,40 +87,56 @@ Discord Automation
 <tr>
 <td width="50%" align="left" valign="top">
 
+<img src="https://www.google.com/s2/favicons?domain=tebex.haaasib.dev&sz=128" width="40" height="40" alt="Tebex Logo" />
+
+<br/>
+
 **01 / TEBEX**
 
 <sub>GAMING & DIGITAL SERVICES</sub>
 
-[tebex.haaasib.dev](https://tebex.haaasib.dev/)
+[tebex.haaasib.dev ↗](https://tebex.haaasib.dev/)
 
 </td>
 <td width="50%" align="left" valign="top">
+
+<img src="https://www.google.com/s2/favicons?domain=visionaim.xyz&sz=128" width="40" height="40" alt="VisionAim Logo" />
+
+<br/>
 
 **02 / VISIONAIM**
 
 <sub>GAMING PLATFORM</sub>
 
-[visionaim.xyz](https://visionaim.xyz/)
+[visionaim.xyz ↗](https://visionaim.xyz/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="left" valign="top">
 
+<img src="https://www.google.com/s2/favicons?domain=nextgenvps.shop&sz=128" width="40" height="40" alt="NextGenVPS Logo" />
+
+<br/>
+
 **03 / NEXTGENVPS**
 
 <sub>VPS & WEB HOSTING</sub>
 
-[nextgenvps.shop](https://nextgenvps.shop/)
+[nextgenvps.shop ↗](https://nextgenvps.shop/)
 
 </td>
 <td width="50%" align="left" valign="top">
+
+<img src="https://www.google.com/s2/favicons?domain=somiti.store&sz=128" width="40" height="40" alt="Somiti Store Logo" />
+
+<br/>
 
 **04 / SOMITI STORE**
 
 <sub>E-COMMERCE</sub>
 
-[somiti.store](https://somiti.store/)
+[somiti.store ↗](https://somiti.store/)
 
 </td>
 </tr>
