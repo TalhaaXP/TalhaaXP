@@ -1,6 +1,6 @@
 
 <!-- ======================================================== -->
-<!--                     TALHA XP                             -->
+<!--                         TALHA XP                         -->
 <!-- ======================================================== -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 FiveM Developer & Full-Stack Developer
 
-[Portfolio](https://www.talhaa.dev/) &nbsp;·&nbsp; [GitHub](https://github.com/TalhaaXP) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3)
+[Portfolio](https://www.talhaa.dev/) · [GitHub](https://github.com/TalhaaXP) · [Discord](https://discord.gg/bZEvG5bqc3)
 
 </div>
 
@@ -53,24 +53,24 @@ Discord Automation
 
 <sub>The languages and tools I work with.</sub>
 
-</div>
+<br/><br/>
 
 **LANGUAGES**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=lua,js,python,php,java,html,powershell&theme=dark" />
-</div>
+
+<br/><br/>
 
 **FRAMEWORKS & RUNTIME**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,flask,tailwind,vite,threejs&theme=dark" />
-</div>
+
+<br/><br/>
 
 **DATABASES & TOOLS**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,firebase,supabase,prisma,git,github,figma,arduino,npm&theme=dark" />
+
 </div>
 
 ---
@@ -83,58 +83,58 @@ Discord Automation
 
 <br/><br/>
 
-<table align="center" width="75%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://camo.githubusercontent.com/3ce4a42624b04f3bc79941aa0cb590de6dd0ef22b77c1a3f4f4a0420a3d0f459/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f74656265782e686161617369622e6465762e69636f" width="40" height="40" alt="Tebex Logo" />
+<sub>01 / GAMING & DIGITAL SERVICES</sub>
 
-<br/>
+<br/><br/>
 
-**01 / TEBEX**
+<code>TEBEX</code>
 
-<sub>GAMING & DIGITAL SERVICES</sub>
+### TEBEX
 
 [tebex.haaasib.dev ↗](https://tebex.haaasib.dev/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://camo.githubusercontent.com/e9385c7eba125adeae7c7aa0c2f8294cd561d6c6ccffd9fd9078bb8ef42a9f8c/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f766973696f6e61696d2e78797a2e69636f" width="40" height="40" alt="VisionAim Logo" />
+<sub>02 / GAMING PLATFORM</sub>
 
-<br/>
+<br/><br/>
 
-**02 / VISIONAIM**
+<code>VISIONAIM</code>
 
-<sub>GAMING PLATFORM</sub>
+### VISIONAIM
 
 [visionaim.xyz ↗](https://visionaim.xyz/)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://www.google.com/s2/favicons?domain=nextgenvps.shop&sz=128" width="40" height="40" alt="NextGenVPS Logo" />
+<sub>03 / VPS & WEB HOSTING</sub>
 
-<br/>
+<br/><br/>
 
-**03 / NEXTGENVPS**
+<code>NEXTGENVPS</code>
 
-<sub>VPS & WEB HOSTING</sub>
+### NEXTGENVPS
 
 [nextgenvps.shop ↗](https://nextgenvps.shop/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://www.google.com/s2/favicons?domain=somiti.store&sz=128" width="40" height="40" alt="Somiti Store Logo" />
+<sub>04 / E-COMMERCE</sub>
 
-<br/>
+<br/><br/>
 
-**04 / SOMITI STORE**
+<code>SOMITI</code>
 
-<sub>E-COMMERCE</sub>
+### SOMITI STORE
 
 [somiti.store ↗](https://somiti.store/)
 
@@ -150,7 +150,7 @@ Discord Automation
 
 ### ELSEWHERE
 
-[Website](https://www.talhaa.dev/) &nbsp;·&nbsp; [Discord](https://discord.gg/bZEvG5bqc3) &nbsp;·&nbsp; [Instagram](https://instagram.com/talhaiss7) &nbsp;·&nbsp; [Email](mailto:talhachan69@gmail.com)
+[Website](https://www.talhaa.dev/) · [Discord](https://discord.gg/bZEvG5bqc3) · [Instagram](https://instagram.com/talhaiss7) · [Email](mailto:talhachan69@gmail.com)
 
 <br/>
 
