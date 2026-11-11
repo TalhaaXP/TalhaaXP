@@ -186,7 +186,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat&color=0f172a&label=PROFILE+VIEWS" height="24"/>
+  <img src="https://komarev.com/ghpvc/?username=TalhaaXP&style=flat&color=0f172a&label=PROFILE+VIEWS&base=97835" height="24"/>
 </div>
 
 <br/>
